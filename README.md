@@ -1,9 +1,10 @@
-# bootcamp-2023
-Projeto final Java RESTful API criado para finalizar o Bootcamp Santander DIO
+# Projeto Final Bootcamp 2023
+Projeto final Java RESTful API criada para finalizar o Bootcamp Santander DIO
 
 ## Diagrama de Classes
 
-```classDiagram
+```mermaid
+classDiagram
   class User {
     +String name
     +Account account
